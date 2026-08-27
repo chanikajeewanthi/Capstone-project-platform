@@ -6,4 +6,4 @@
 	url = https://github.com/ITS-2130-ECA-HDSE-71-72/Capstone-Project-Platform-Api-Gateway.git
 [submodule "service-registry"]
 	path = service-registry
-	url = https://github.com/ITS-2130-ECA-HDSE-71-72/Capstone-Project-Platform-Api-Gateway.git
+	url = https://github.com/ITS-2130-ECA-HDSE-71-72/Capstone-Project-Platform-Service-Registry.git
